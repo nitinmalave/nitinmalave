@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate software developer from India</h3>
 
 **About me**
-- 🔭 Software Engineer at [nVent](https://www.nvent.com/en-in/)
+- 🔭 Software Engineer at [Adobe](https://www.adobe.com/)
 - 👥 Open Source Contributor at [GoogleChrome-web.dev](), [Angular Material]() & [RxJS]()
 - 🌱 Currently building consumer applications using Angular, Typescript, Cypress, Jest, C# microservices
 - 🧑‍💻 Currently learning ReactJS, Redux 
